@@ -7,6 +7,8 @@ public class SeleniumTest {
 	public void BrowserAutomation()
 	{
 		System.out.println("Beowser Automation");
+		//made change by Xuser
+		System.out.println("Web Automation");
 	}
 	@Test
 	public void ElementUI()
